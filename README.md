@@ -1,6 +1,12 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ttschnz&langs_count=6&theme=dark)](https://www.github.com/ttschnz#gh-dark-mode-only)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ttschnz&langs_count=6&theme=default)](https://www.github.com/ttschnz#gh-light-mode-only)
 
+## Scripts / Lecture Notes
+[![](https://github-readme-stats.vercel.app/api/pin?username=ttschnz&repo=MATH-207-Analysis-IV&theme=dark)](https://github.com/ttschnz/MATH-207-Analysis-IV#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/pin?username=ttschnz&repo=MATH-207-Analysis-IV&theme=default)](https://github.com/ttschnz/MATH-207-Analysis-IV#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api/pin?username=ttschnz&repo=ME-280-Fluid-Mechanics&theme=dark)](https://github.com/ttschnz/ME-280-Fluid-Mechanics#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/pin?username=ttschnz&repo=ME-280-Fluid-Mechanics&theme=default)](https://github.com/ttschnz/ME-280-Fluid-Mechanics#gh-light-mode-only)
+
 ## Personal Favourites
 [![](https://github-readme-stats.vercel.app/api/pin?username=ttschnz&repo=miggy_brute_force&theme=dark)](https://github.com/ttschnz/miggy_brute_force#gh-dark-mode-only)
 [![](https://github-readme-stats.vercel.app/api/pin?username=ttschnz&repo=miggy_brute_force&theme=default)](https://github.com/ttschnz/miggy_brute_force#gh-light-mode-only)
